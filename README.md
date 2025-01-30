@@ -15,7 +15,7 @@ In this tutorial, we install Active Directory Domain Services on the Windows ser
 
 <h2>High-Level Steps</h2>
 
- ***A- Prereq: Create a Windows VM and Windows Server VM in Azure. Then, remote login to Windows Server VM*** 
+ ***A- Prereq: Create a Windows VM and Windows Server VM in Azure. Then, remote login to Windows Server VM. Select link to [create VM in Azure](http://portal.azure.com)*** 
   
 - Step 1: Install [Wireshark](https://www.wireshark.org) in the Windows VM to observe Packet tracing.
 - Step 2: Attempt to ping Linux VM in Windows VM using Powershell. Observe the traffic in Wireshark
